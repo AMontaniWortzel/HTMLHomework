@@ -1,2 +1,1 @@
-# HTMLHomework
-Este es un repositorio del modulo 3 de HTML
+Esta es una prueba de como crear un repositorio y clonarlo desde github a mi computadora.
